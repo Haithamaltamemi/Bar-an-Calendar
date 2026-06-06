@@ -1,0 +1,69 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Kotlin
+out/
+bin/
+
+# Built application files
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Runtime files
+run/
+
+# IDEs
+.vscode/
+.settings/
+.classpath
+.project
+.c9/
+*.launch
+.buildpath
+
+# macOS
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.com.apple.timemachine.supported
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Emulator
+.avd/
+.android/
+*.qcow2
+*.ini
+
+# Misc
+.env
+.env.local
+.env.*.local
